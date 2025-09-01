@@ -2,7 +2,7 @@
 <div align="center">
   <br />
     <a href="https://github.com/senethmendis/delete_any_file_using_types/blob/main/dp.png" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
+      [<img src="public/readme/hero.png" alt="Project Banner">](https://github.com/senethmendis/delete_any_file_using_types/blob/main/dp.png?raw=true)
     </a>
   <br />
   <div/>
