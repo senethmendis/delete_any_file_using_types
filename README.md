@@ -1,13 +1,6 @@
 # Delete Files by Extension (Python Script)
-<div align="center">
-  <br />
-    <a href="https://github.com/senethmendis/delete_any_file_using_types/blob/main/dp.png" target="_blank">
-      [<img src="public/readme/hero.png" alt="Project Banner">](https://github.com/senethmendis/delete_any_file_using_types/blob/main/dp.png?raw=true)
-    </a>
-  <br />
-  <div/>
 
-
+![dp](https://github.com/senethmendis/delete_any_file_using_types/blob/main/dp.png)
 
 
 This Python script allows you to delete files with a specific file extension (e.g., `.AAE`, `.JPG`, `.PNG`) from a given directory.  
